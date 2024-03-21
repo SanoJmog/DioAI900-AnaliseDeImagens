@@ -20,4 +20,7 @@ Continuamos a luta!
 
 PS- depois de muita tentativa, a análise FUNCIONOU \o/.... IHAAAAAAAAAA
 
+PSII - Não clonei nem instalei o git, apenas utilizei o modo dev apertando a tecla ".", apanhei a enteder um pouco, porém a plataforma do git por mais que seja
+em inglês, da pra se entender com ela.
+
 Let's Bora!
